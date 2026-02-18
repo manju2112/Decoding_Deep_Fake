@@ -1,0 +1,9 @@
+numpy 
+pandas 
+opencv-python 
+tensorflow 
+kerastuner 
+imbalanced-learn 
+matplotlib 
+scikit-learn
+-e .

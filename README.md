@@ -37,19 +37,6 @@ The project uses the Celeb-DF dataset, structured as follows:
     4. Saved Model: Trained model (best_bilstm_model_equal.h5) and feature files (features_celeb.npy, labels_celeb.npy).
 All dataset files and the saved model are available on Google Drive: [[Decoding Deepfakes dataset].](https://drive.google.com/drive/folders/1E3SQ0XxLcQ4Ur0drg-yqa6XkHPJO98Ly?usp=sharing)
 
-Published Work
-
-This project is based on a published paper, archived on Zenodo with a DOI. 
-
-Research paper: 
-
-https://www.irjet.net/archives/V11/i11/IRJET-V11I1176.pdf
-
-Please cite the work as follows: 
-
-    Aiya, A., Wani, N., & Ramani, M. (2024). Decoding Deepfakes: An LSTM-Driven Approach with Attention Mechanisms and Grad-CAM Explainability. 
-    International Research Journal of Engineering and Technology (IRJET), 11(11), 506–517. https://doi.org/10.5281/zenodo.15569915
-
 ## Results
 
 ### Model Performance
